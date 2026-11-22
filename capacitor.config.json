@@ -1,0 +1,8 @@
+{
+  "appId": "com.mindvault.app",
+  "appName": "MindVault",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
